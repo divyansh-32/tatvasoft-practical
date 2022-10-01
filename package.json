@@ -1,0 +1,30 @@
+{
+  "name": "tatvasoft-practical",
+  "version": "1.0.0",
+  "description": "Created for practical round of TetvaSoft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyansh-32/tatvasoft-practical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyansh-32/tatvasoft-practical/issues"
+  },
+  "homepage": "https://github.com/divyansh-32/tatvasoft-practical#readme",
+  "dependencies": {
+    "config": "^3.3.8",
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

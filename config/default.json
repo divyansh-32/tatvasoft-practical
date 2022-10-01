@@ -1,0 +1,4 @@
+{
+    "mongoUri": "mongodb+srv://divyansh:demon123@nodejs.qs579.mongodb.net/?retryWrites=true&w=majority",
+    "PORT": 3000
+}
