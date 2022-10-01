@@ -1,2 +1,2 @@
-# tetvasoft-practical
+# tatvasoft-practical
 Created for practical round of TetvaSoft
